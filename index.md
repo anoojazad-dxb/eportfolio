@@ -17,3 +17,5 @@ I am an experienced IT support and network infrastructure professional currently
 
 ---
 *This e-portfolio is hosted on GitHub Pages to document my learning activities, artefacts, and reflections as required by the Cyber Security programme.*
+## Modules
+* [Security Risk Management](./security-risk-management.md)
