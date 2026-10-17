@@ -8,6 +8,7 @@ I am an experienced IT support and network infrastructure professional currently
 ## Academic Background
 * **MSc in Cyber Security** – University of Essex (In Progress)
 * **Master of Business Administration (MBA)**
+* **B.Tech in Computer Science**
 ---
 *This e-portfolio is hosted on GitHub Pages to document my learning activities, artefacts, and reflections as required by the Cyber Security programme.*
 ## Modules
