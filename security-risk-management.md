@@ -74,7 +74,7 @@ Upon completion of this module, I am able to:
 ## 6. Evidence & Meeting Notes Repository
 ### A. Project Artefacts & Technical Reports
 * [View NIST SP 800-30 Risk Assessment Report PDF](risk-identification-report.pdf)
-* [View FAIR & Monte Carlo Financial Calculation Model and Active-Active DRaaS blueprint](Executive-Summary.docx)
+* [Download FAIR & Monte Carlo Financial Calculation Model and Active-Active DRaaS blueprint](Executive-Summary.docx)
 
 ### B. Group 1 Collaboration & Meeting Logs
 * **Group Formation & Setup:** 
