@@ -26,7 +26,7 @@ Upon completion of this module, I am able to:
 | **Unit 9: Cloud Resilience** | Explored Docker and Kubernetes for containerised workload isolation. | Mitigating the risk of proprietary cloud provider vendor lock-in. | Recommended containerisation strategies to abstract application logic from underlying cloud infrastructure. |
 | **Unit 10: Incident Response** | Developed structured Incident Response (IR) playbooks (Detection to Recovery). | Ensuring non-technical executive stakeholders understand escalation paths. | Drafted clear communication trees bridging technical NOC teams with senior enterprise leadership. |
 | **Unit 11: Final Evaluation** | Synthesized QRM, DRaaS, and STRIDE into a final cohesive architectural report. | Consolidating disparate group sections into a single unified academic voice. | Acted as technical reviewer, ensuring the financial ROI aligned perfectly with the proposed DR architecture. |
-| **Unit 12: e-Portfolio** | Reflected on professional growth using the Rolfe et al. (2001) critical framework. | Condensing 12 weeks of technical and collaborative learning into structured logs. | Built this GitHub Pages repository to systematically document artefacts and PDP goals[cite: 1]. |
+| **Unit 12: e-Portfolio** | Reflected on professional growth using the Rolfe et al. (2001) critical framework. | Condensing 12 weeks of technical and collaborative learning into structured logs. | Built this GitHub Pages repository to systematically document artefacts and PDP goals. |
 
 ---
 
@@ -72,9 +72,19 @@ Upon completion of this module, I am able to:
 ---
 
 ## 6. Evidence & Meeting Notes Repository
-* `[cite: 1]`
-* `[Link to NIST SP 800-30 Assessment PDF]`
-* `[Link to FAIR / Monte Carlo Excel Spreadsheet]`
-* `[Link to Active-Active DRaaS Architectural Diagram]`
-* `[Screenshots of Peer Review & Tutor Feedback]`
-* `[Group 1 Weekly Meeting Notes Logs]`
+### A. Project Artefacts & Technical Reports
+* [View NIST SP 800-30 Risk Assessment Report PDF](risk-identification-report.pdf)
+* [View FAIR & Monte Carlo Financial Calculation Model and Active-Active DRaaS blueprint](Executive Summary.docx)
+
+### B. Group 1 Collaboration & Meeting Logs
+* **Group Formation & Setup:** 
+  * ![University Platform Group Formation](reaching-abinel-group.png)
+  * ![Tutor Communication](tutor-communication.png)
+* **Operational Workflow & Task Allocation (WhatsApp Logs):**
+  * ![WhatsApp Sync 1 - Timezone Coordination](whatsapp-image-1.jpeg)
+  * ![WhatsApp Sync 2 - Workload Split](whatsapp-image-2.jpeg)
+  * ![WhatsApp Sync 3 - Draft Review](whatsapp-image-3.jpeg)
+
+### C. Peer Review & Tutor Feedback
+* ![Collaborative Learning Discussion Board](forum_discussion.png)
+
