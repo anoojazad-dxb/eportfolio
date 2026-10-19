@@ -87,4 +87,5 @@ Upon completion of this module, I am able to:
 
 ### C. Peer Review & Tutor Feedback
 * ![Collaborative Learning Discussion Board](forum_discussion.png)
+* ![2nd-Collaborative Learning Discussion Board](2nd-discussion.png)
 
